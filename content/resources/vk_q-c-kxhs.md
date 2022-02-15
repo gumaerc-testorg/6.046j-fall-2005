@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-introduction-to-algorithms-sma-5503-fall-2005/2e2ecc176de59dd87cc29523f57769b8_vK_q-C-kXhs.srt
+file: /media/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/2e2ecc176de59dd87cc29523f57769b8_vK_q-C-kXhs.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 2e2ecc17-6de5-9dd8-7cc2-9523f57769b8

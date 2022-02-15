@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture Notes ([PDF](resources/lec7))  \n[Assignments](pages/assignments)\
+  \  \n[Exams](pages/exams)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Hashing, Hash Functions'
 uid: 038082bd-daf2-cd71-8a96-f35effebed99
 video_files:
   archive_url: http://www.archive.org/download/MIT6.046JF05MPEG4/ocw-6.046-03oct2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-046j-introduction-to-algorithms-sma-5503-fall-2005/61e655a6583250d1aa3cf91cc9e1fe01_JZHBa-rLrBA.vtt
+  video_captions_file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/61e655a6583250d1aa3cf91cc9e1fe01_JZHBa-rLrBA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/JZHBa-rLrBA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-046j-introduction-to-algorithms-sma-5503-fall-2005/743bc0ec5bc92fec95817296f3536a97_JZHBa-rLrBA.pdf
+  video_transcript_file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/743bc0ec5bc92fec95817296f3536a97_JZHBa-rLrBA.pdf
 video_metadata:
   youtube_id: JZHBa-rLrBA
 ---

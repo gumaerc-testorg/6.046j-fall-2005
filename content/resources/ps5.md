@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains problem sets on skip lists, b-trees and points
   in the plane.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-introduction-to-algorithms-sma-5503-fall-2005/b10763ada03e9cf847e290c31985042c_ps5.pdf
+file: /media/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/b10763ada03e9cf847e290c31985042c_ps5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps5.pdf
 uid: b10763ad-a03e-9cf8-47e2-90c31985042c
