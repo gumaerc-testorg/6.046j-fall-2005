@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec7))  \n[Assignments](
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Hashing, Hash Functions'
 uid: 038082bd-daf2-cd71-8a96-f35effebed99
 video_files:

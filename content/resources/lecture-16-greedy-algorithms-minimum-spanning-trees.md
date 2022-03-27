@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec16))  \n[Assignments]
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Greedy Algorithms, Minimum Spanning Trees'
 uid: 3b98255f-ecbd-dd4e-f435-b8937a71eed9
 video_files:

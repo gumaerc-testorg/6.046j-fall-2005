@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec11))  \n[Assignments]
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Augmenting Data Structures, Dynamic Order Statistics, Interval
   Trees'
 uid: 613532bf-2596-b320-c20f-5bc21dbce017

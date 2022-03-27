@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Assignments](pages/assignments)  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Advanced Topics (cont.)'
 uid: e0bb6a56-8381-33a9-3b84-e8790f090bff
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec2))  \n[Assignments](
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Asymptotic Notation; Recurrences; Substitution, Master Method'
 uid: 452ebf86-b7f7-dad4-3639-6c8a2bb02914
 video_files:

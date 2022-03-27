@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c9820016-f117-6a44-bf90-abf38331392d
 resourcetype: Document
 title: dyn_multi_alg.pdf
 uid: 41ba2bd0-da08-d73b-8b21-1daa43a75be6

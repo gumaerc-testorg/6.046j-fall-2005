@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec1))  \n[Assignments](
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Administrivia; Introduction; Analysis of Algorithms, Insertion
   Sort, Mergesort'
 uid: 7e541412-e336-504a-5f7c-db86eeb25901

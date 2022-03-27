@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec13))  \n[Assignments]
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Amortized Algorithms, Table Doubling, Potential Method'
 uid: 507f1747-3d5c-03b9-3a67-e5ce66f3066d
 video_files:

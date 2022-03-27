@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec5))  \n[Assignments](
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Linear-time Sorting: Lower Bounds, Counting Sort, Radix Sort'
 uid: cde36a0c-c9d7-a4e0-66d4-716cb17fd6fb
 video_files:

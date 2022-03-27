@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c9820016-f117-6a44-bf90-abf38331392d
 resourcetype: Document
 title: l12_skiplists.pdf
 uid: c69eacf7-b834-4572-d9ce-d8efff02f2b3

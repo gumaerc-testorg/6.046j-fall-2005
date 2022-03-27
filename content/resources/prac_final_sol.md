@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 144d9e51-3546-eac8-c1fd-9b0d278e6eb2
 resourcetype: Document
 title: prac_final_sol.pdf
 uid: 63b00c36-e382-27e0-5c8f-5f9c8206aad7

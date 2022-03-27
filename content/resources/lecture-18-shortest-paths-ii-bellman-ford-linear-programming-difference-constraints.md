@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec18))  \n[Assignments]
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Shortest Paths II: Bellman-Ford, Linear Programming, Difference
   Constraints'
 uid: e942b39b-3005-c3e6-0aea-fd8ef255efda

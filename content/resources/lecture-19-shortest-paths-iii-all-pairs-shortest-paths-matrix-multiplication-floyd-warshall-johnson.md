@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/lec19))  \n[Assignments]
   \  \n[Exams](pages/exams)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Shortest Paths III: All-pairs Shortest Paths, Matrix Multiplication,
   Floyd-Warshall, Johnson'
 uid: 2d2648ca-3df8-461c-1d2d-4ed58d52fd1e
