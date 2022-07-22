@@ -5,11 +5,14 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "[Assignments](pages/assignments)  \n[Exams](pages/exams)"
+related_resources_text: "[Assignments](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/pages/assignments)\
+  \  \n[Exams](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/pages/exams)"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +30,4 @@ video_metadata:
 **Topics covered:** Advanced Topics
 
 **Instructors:** Prof. Erik Demaine, Prof. Charles Leiserson
+
