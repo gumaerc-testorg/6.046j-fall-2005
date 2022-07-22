@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: efc69ef8-6c18-e164-d675-bd8808c6477a
 ---
@@ -77,17 +80,17 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 {{< tdopen >}}
 Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))  
   
-Sample Input, sample.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/assignments/sample.txt))  
-Sample Output, samplesol.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/assignments/samplesol.txt))  
-Input 1, input1.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/assignments/input1.txt))  
-Input 2, input2.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/assignments/input2.txt))  
-Input 3, input3.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/assignments/input3.txt))
+Sample Input, sample.txt ([TXT]({{< baseurl >}}/resources/sample))  
+Sample Output, samplesol.txt ([TXT]({{< baseurl >}}/resources/samplesol))  
+Input 1, input1.txt ([TXT]({{< baseurl >}}/resources/input1))  
+Input 2, input2.txt ([TXT]({{< baseurl >}}/resources/input2))  
+Input 3, input3.txt ([TXT]({{< baseurl >}}/resources/input3))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/ps7sol))  
   
-Source Code, editDistance.java ([JAVA](/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/assignments/editDistance.java))  
-Source Code, editDistance.c ([C](/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/assignments/editDistance.c))
+Source Code, editDistance.java ([JAVA]({{< baseurl >}}/resources/editdistance))  
+Source Code, editDistance.c ([C]({{< baseurl >}}/resources/editdistance-1))
 {{< tdclose >}}
 
 {{< trclose >}}
