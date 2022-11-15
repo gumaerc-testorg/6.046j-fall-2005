@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This section provides information about the course objectives, outcomes,
+  prerequisites, lectures, recitations, handouts, texts, registration, problem sets,
+  grading and collaboration policy for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: c8a512f8-6dc7-afc8-165e-3a4bf4129666
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -88,7 +95,7 @@ You must register before Ses #1. We will email your recitation assignment to you
 Problem Sets
 ------------
 
-Nine problem sets will be assigned during the semester. The course [calendar]({{< baseurl >}}/pages/calendar) shows the tentative schedule of assignments and due dates, but the actual due date will always be on the problem set itself.
+Nine problem sets will be assigned during the semester. The course {{% resource_link 23404667-19b0-324f-1dfa-4900f92a6447 "calendar" %}} shows the tentative schedule of assignments and due dates, but the actual due date will always be on the problem set itself.
 
 *   Late homework will generally not be accepted. If there are extenuating circumstances, you should make **prior** arrangements with your recitation instructor. **An excuse from the Dean's Office will be required if prior arrangements have not been made**.
 *   Each problem should be written up on a separate sheet (or sheets) of paper, since problems may be graded by separate graders. Mark the top of each sheet with the following:
