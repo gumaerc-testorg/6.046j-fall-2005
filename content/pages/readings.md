@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section contains the information on the course textbook, readings
+  covered in the lectures and other useful references for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: c9820016-f117-6a44-bf90-abf38331392d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The table below provides information on the course's reading assignments, which are taken from the course textbook:
@@ -281,7 +287,7 @@ L12
 Skip Lists
 {{< tdclose >}}
 {{< tdopen >}}
-Skip Lists handout ([PDF]({{< baseurl >}}/resources/l12_skiplists))
+Skip Lists handout ({{% resource_link c69eacf7-b834-4572-d9ce-d8efff02f2b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -453,7 +459,7 @@ L22
 Advanced Topics
 {{< tdclose >}}
 {{< tdopen >}}
-Dynamic Multithreaded Algorithms handout ([PDF]({{< baseurl >}}/resources/dyn_multi_alg))
+Dynamic Multithreaded Algorithms handout ({{% resource_link 41ba2bd0-da08-d73b-8b21-1daa43a75be6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
