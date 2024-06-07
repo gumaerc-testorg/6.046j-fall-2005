@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solution to the problem set on parallel merge
   sort.
 file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/f1fea97937edc97ae96691b80651421a_ps9sol.pdf
+file_size: 64696
 file_type: application/pdf
 learning_resource_types:
 - Assignments

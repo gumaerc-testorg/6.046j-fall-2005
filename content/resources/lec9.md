@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/4ac68e5b9ac6c35e0e6bdc661b30daf8_lec9.pdf
+file_size: 327151
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
