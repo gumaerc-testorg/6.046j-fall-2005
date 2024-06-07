@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the solution to the quiz 2 questions.
 file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/96f941f98dfe207c30eabfb34bee5e2d_quiz2_sol.pdf
+file_size: 132997
 file_type: application/pdf
 learning_resource_types:
 - Exams
