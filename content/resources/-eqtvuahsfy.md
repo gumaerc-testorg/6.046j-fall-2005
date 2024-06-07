@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/fa4b25380965629f7023d5548c2ce2e2_-EQTVuAhSFY.srt
+file_size: 80499
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

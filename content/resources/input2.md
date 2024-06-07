@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains input data for the problem sets on edit distance
   and greedsox.
 file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/32fcac4f08c80f5f34f674967ca189ee_input2.txt
+file_size: 1420
 file_type: text/plain
 learning_resource_types:
 - Assignments

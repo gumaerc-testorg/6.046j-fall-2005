@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains c code for the problem set on edit distance and
   greedsox.
 file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/0514e4924da6fe080087824cae0f61cf_editDistance.c
+file_size: 6832
 file_type: text/plain
 learning_resource_types:
 - Assignments
