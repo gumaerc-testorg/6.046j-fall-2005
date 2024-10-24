@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem set on sorting and weighted
   median.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/918110223b953b1865bd166dac2ddf77_ps2sol.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/918110223b953b1865bd166dac2ddf77_ps2sol.pdf
 file_size: 205949
 file_type: application/pdf
 learning_resource_types:

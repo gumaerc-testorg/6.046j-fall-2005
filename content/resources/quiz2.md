@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the instructions and problem sets
   for quiz 2.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/5e10dcbfd59e3f29a2b7d1673e5f8404_quiz2.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/5e10dcbfd59e3f29a2b7d1673e5f8404_quiz2.pdf
 file_size: 107261
 file_type: application/pdf
 learning_resource_types:

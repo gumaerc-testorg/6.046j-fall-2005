@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture notes on Skip lists.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/c69eacf7b8344572d9ced8efff02f2b3_l12_skiplists.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/c69eacf7b8344572d9ced8efff02f2b3_l12_skiplists.pdf
 file_size: 147105
 file_type: application/pdf
 learning_resource_types:

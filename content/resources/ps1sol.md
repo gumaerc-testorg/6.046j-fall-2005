@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the problem set on aymptotic notation,
   recurrences and unimodal search.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/1fa860afa3b3889551cecd686afdf8de_ps1sol.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/1fa860afa3b3889551cecd686afdf8de_ps1sol.pdf
 file_size: 57214
 file_type: application/pdf
 learning_resource_types:
