@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions to the problem sets on the topics:
   No left turns and Video game design.'
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/12317732a175a090a2b4fd3e525255f1_ps8sol.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/12317732a175a090a2b4fd3e525255f1_ps8sol.pdf
 file_size: 125719
 file_type: application/pdf
 learning_resource_types:
