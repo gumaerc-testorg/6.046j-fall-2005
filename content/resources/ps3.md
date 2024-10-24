@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem sets on pattern matching and 2-universal
   hashing.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/6b0d77244914e316c05f711bf04f62cd_ps3.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/6b0d77244914e316c05f711bf04f62cd_ps3.pdf
 file_size: 80441
 file_type: application/pdf
 learning_resource_types:

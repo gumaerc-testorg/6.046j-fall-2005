@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem sets on treaps and tree balance.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/39710da2cb213dd77a03577fd699f63d_ps4.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/39710da2cb213dd77a03577fd699f63d_ps4.pdf
 file_size: 154262
 file_type: application/pdf
 learning_resource_types:

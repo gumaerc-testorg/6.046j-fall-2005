@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solution to practice final exam questions.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/63b00c36e38227e05c8f5f9c8206aad7_prac_final_sol.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/63b00c36e38227e05c8f5f9c8206aad7_prac_final_sol.pdf
 file_size: 171396
 file_type: application/pdf
 learning_resource_types:

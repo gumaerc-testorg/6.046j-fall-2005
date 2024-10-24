@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains three problem sets on asymptotic notation, recurrences
   and unimodal search.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/21bf373b58dcd53a7650a8072a76a448_ps1.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/21bf373b58dcd53a7650a8072a76a448_ps1.pdf
 file_size: 52724
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem sets on edit distance and greedsox.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/e7f41b1452b2660dd8b7aa5a2f0f85d1_ps7.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/e7f41b1452b2660dd8b7aa5a2f0f85d1_ps7.pdf
 file_size: 127146
 file_type: application/pdf
 learning_resource_types:

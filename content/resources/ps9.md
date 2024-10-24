@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set on parallel merge sort.
-file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/87b244e363192122fbd8892b4dea4a8f_ps9.pdf
+file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/87b244e363192122fbd8892b4dea4a8f_ps9.pdf
 file_size: 29104
 file_type: application/pdf
 learning_resource_types:
