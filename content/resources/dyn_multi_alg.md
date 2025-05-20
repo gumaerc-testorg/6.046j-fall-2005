@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about dynamic multithreaded algorithms.
-file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/41ba2bd0da08d73b8b211daa43a75be6_dyn_multi_alg.pdf
+file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/41ba2bd0da08d73b8b211daa43a75be6_dyn_multi_alg.pdf
 file_size: 151158
 file_type: application/pdf
 learning_resource_types:

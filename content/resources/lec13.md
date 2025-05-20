@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/0a02bc84e917b9aeddaf69c8dc151a6f_lec13.pdf
+file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/0a02bc84e917b9aeddaf69c8dc151a6f_lec13.pdf
 file_size: 303589
 file_type: application/pdf
 learning_resource_types: []
