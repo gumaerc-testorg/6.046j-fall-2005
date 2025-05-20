@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains java code for the problem sets on edit distance
   and greedsox.
-file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/c22b42c3f9bf60dfceefda300225faac_editDistance.java
+file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/c22b42c3f9bf60dfceefda300225faac_editDistance.java
 file_size: 5556
 file_type: text/plain
 learning_resource_types:
