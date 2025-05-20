@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem sets on electronic billboard and cost
   of restructuring red-black trees
-file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/9f428ed07132962154884542162a29e5_ps6.pdf
+file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/9f428ed07132962154884542162a29e5_ps6.pdf
 file_size: 71948
 file_type: application/pdf
 learning_resource_types:

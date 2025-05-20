@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains sample output for the problem set on edit distance
   and greedsox.
-file: /ol-ocw-studio-app/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/63e4597bf275a5b145404efa33d7600c_samplesol.txt
+file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/63e4597bf275a5b145404efa33d7600c_samplesol.txt
 file_size: 3010
 file_type: text/plain
 learning_resource_types:
